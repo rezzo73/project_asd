@@ -1,0 +1,91 @@
+AcquisitionMatrix:[64, 0, 0, 64]
+AcquisitionTime:162209.917500
+AngioFlag:N
+BitsAllocated:16
+BitsStored:12
+Columns:448
+ContentDate:20110929
+ContentTime:162221.609000
+DeviceSerialNumber:35370
+EchoNumbers:1
+EchoTime:30
+EchoTrainLength:1
+FlipAngle:70
+HighBit:11
+ImageOrientationPatient:['0.99448100353181', '0.01102442412548', '0.1043359750377', '0.03688595113201', '0.89423908689508', '-0.4460671273229']
+ImagePositionPatient:['-686.97763470993', '-648.85479867462', '206.25650114476']
+ImageType:['ORIGINAL', 'PRIMARY', 'M', 'ND', 'MOSAIC']
+ImagedNucleus:1H
+ImagingFrequency:123.243546
+InPlanePhaseEncodingDirection:COL
+InstanceCreationDate:20110929
+InstanceCreationTime:162221.609000
+InstanceNumber:3
+InstitutionAddress:Habelschwerdter Allee 45,Berlin,District,DE,14195
+InstitutionName:Freie Universitaet
+InstitutionalDepartmentName:Department
+LargestImagePixelValue:2011
+MRAcquisitionType:2D
+MagneticFieldStrength:3
+Manufacturer:SIEMENS
+ManufacturerModelName:TrioTim
+Modality:MR
+NumberOfAverages:1
+NumberOfPhaseEncodingSteps:63
+PatientAge:030Y
+PatientBirthDate:19810603
+PatientID:05
+PatientName:LOE_2233^SCOTT
+PatientPosition:HFS
+PatientSex:M
+PatientSize:1.83
+PatientWeight:76
+PercentPhaseFieldOfView:100
+PercentSampling:100
+PerformedProcedureStepDescription:Projekte^fMRI_12ch._AAH-Scout
+PerformedProcedureStepID:MR20110929152845
+PerformedProcedureStepStartDate:20110929
+PerformedProcedureStepStartTime:152845.781000
+PerformingPhysicianName:
+PhotometricInterpretation:MONOCHROME2
+PixelBandwidth:2232
+PixelRepresentation:0
+PixelSpacing:['3', '3']
+PositionReferenceIndicator:
+ProtocolName:ep2d_TR2000_TE30_100_Hariri
+RefdImageSequence:
+ReferencedImageSequence:[(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.32.35370.2011092915294840023979296(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.32.35370.2011092915294840764179298(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.32.35370.2011092915294841289179300]
+ReferringPhysicianName:
+RepetitionTime:2000
+RequestedProcedureDescription:Projekte fMRI_12ch._AAH-Scout
+Rows:448
+SAR:0.11965730792999
+SamplesPerPixel:1
+ScanOptions:FS
+ScanningSequence:EP
+SequenceName:*epfid2d1_64
+SequenceVariant:SK
+SeriesDate:20110929
+SeriesDescription:ep2d_TR2000_TE30_100_Hariri
+SeriesNumber:8
+SeriesTime:162221.593000
+SliceLocation:-39.517526910775
+SliceThickness:3
+SmallestImagePixelValue:0
+SoftwareVersions:syngo MR B17
+SpacingBetweenSlices:3.6000000916099
+SpecificCharacterSet:ISO_IR 100
+StationName:MRC35370
+StudyDate:20110929
+StudyDescription:Projekte^fMRI_12ch._AAH-Scout
+StudyID:1
+StudyTime:152845.718000
+TransmitCoilName:Body
+VariableFlipAngleFlag:N
+WindowCenter:748
+WindowCenterWidthExplanation:Algo1
+WindowWidth:1607
+dBdt:0
