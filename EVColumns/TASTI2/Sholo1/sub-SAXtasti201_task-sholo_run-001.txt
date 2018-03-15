@@ -1,0 +1,6 @@
+6	30	1	objects
+36	30	1	face
+66	30	1	objects
+96	30	1	face
+126	30	1	objects
+156	30	1	face
